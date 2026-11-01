@@ -29,7 +29,7 @@ O projeto apresenta os serviços da oficina, registros reais do trabalho, horár
 
 ## Prévia
 
-![Identidade visual da Jet Car](assets/jet-car-logo-nova.jpg)
+![Prévia do site Jet Car Oficina Mecânica](assets/jet-car-site-preview.png)
 
 ## Autor
 
